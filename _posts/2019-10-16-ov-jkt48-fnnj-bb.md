@@ -3,7 +3,7 @@ layout: post
 title: "Off Vocal - JKT48 - Futari Nori no Jitensha -Bersepeda Berdua-"
 date: 2019-10-16
 excerpt: "Download File"
-tags: [off vocal]
+tags: [JKT48]
 feature: https://drive.google.com/uc?authuser=0&id=10D56KjUspCKlEbDll86xeXmN7oMk6aFf&export=download
 comments: true
 ---
