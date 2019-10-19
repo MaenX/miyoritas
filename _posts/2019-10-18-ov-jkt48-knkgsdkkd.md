@@ -3,7 +3,7 @@ layout: post
 title: "Off Vocal - JKT48 - Kimi no Koto ga Suki Dakara -Karena Kusuka Dirimu-"
 date: 2019-10-18
 excerpt: "Download File"
-tags: [off vocal]
+tags: [JKT48]
 feature: https://drive.google.com/uc?authuser=0&id=14EWCj5AmGVM43RgTHCDU8IHgGJmKdald&export=download
 comments: true
 ---
