@@ -5,7 +5,7 @@ date: 2019-10-25
 excerpt: "Off Vocal"
 tags: [Metallica]
 feature: https://drive.google.com/uc?authuser=0&id=1PB-4eQNBf6GJoxzsq0ItkG6K35709yHu&export=download
-comments: true
+comments: false
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/BdU0mg7b79g" frameborder="0"> </iframe>
 <center>
