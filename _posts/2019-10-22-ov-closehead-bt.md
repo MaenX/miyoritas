@@ -5,7 +5,7 @@ date: 2019-10-22
 excerpt: "Off Vocal"
 tags: [Closehead]
 feature: https://drive.google.com/uc?authuser=0&id=1IZOG9hvIA7x4e2NVz5RGEkOFPWrOIoiJ&export=download
-comments: true
+comments: false
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/ETTlMjtTfLE" frameborder="0"> </iframe>
 <center>
