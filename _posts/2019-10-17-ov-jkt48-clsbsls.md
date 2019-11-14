@@ -5,7 +5,7 @@ date: 2019-10-17
 excerpt: "Off Vocal"
 tags: [JKT48]
 feature: https://drive.google.com/uc?authuser=0&id=16wnYHpUtbbtAPfcvHjWKnOAkQUcP-fL3&export=download
-comments: true
+comments: false
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/5ybqOLsdIwE" frameborder="0"> </iframe>
 <center>
