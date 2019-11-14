@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Off Vocal - Guns N' Roses - Sweet Child O' Mine"
+title: "Guns N' Roses - Sweet Child O' Mine"
 date: 2019-10-24
 excerpt: "Off Vocal"
 tags: [Guns N' Roses]
