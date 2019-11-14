@@ -5,7 +5,7 @@ date: 2019-10-21
 excerpt: "Off Vocal"
 tags: [Marjinal]
 feature: https://drive.google.com/uc?authuser=0&id=1FhHPL5piH6t4-Ur9QT_9CTu_96H9uT8L&export=download
-comments: true
+comments: false
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/T1l1d6RiQeY" frameborder="0"> </iframe>
 <center>
