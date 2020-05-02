@@ -2,7 +2,6 @@
 layout: post
 title: "JKT48 - Fortune Cookie Yang Mencinta -Fortune Cookie in Love/Koisuru Fortune Cookie- ♩ = 123"
 date: 2019-11-03
-excerpt: "Off Vocal"
 tags: [JKT48]
 feature: https://drive.google.com/uc?authuser=0&id=1ASv6QYzuiX9O-FLUs78sRBfT8VE6ZJhP&export=download
 comments: false
